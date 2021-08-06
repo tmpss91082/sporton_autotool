@@ -1,0 +1,23 @@
+Test Start
+TEST_START_TIME 2021/08/05 ¶g¥| 10:22:06.96
+run1 test starting
+======================
+Run1 test end
+======================
+run2 test starting
+======================
+Run2 test end
+======================
+run3 test starting
+======================
+Run3 test end
+======================
+run4 test starting
+======================
+Run4 test end
+======================
+run5 test starting
+======================
+Run5 test end
+======================
+TEST_END_TIME é€±å›› 2021/08/05 10:24:36.33

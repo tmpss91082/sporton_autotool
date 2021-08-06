@@ -1,0 +1,1 @@
+Get-Counter "\Network Adapter(qualcomm qca61x4a 802.11ac wireless adapter)\Bytes Received/sec" -Continuous
